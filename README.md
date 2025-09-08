@@ -29,7 +29,7 @@ Built with *Python, OpenCV, MediaPipe, CNN models, and Text-to-Speech (TTS)*.
 ---
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository :
 ```bash
 git clone https://github.com/<your-username>/Hand-Gesture-Translator.git
 cd Hand-Gesture-Translator
