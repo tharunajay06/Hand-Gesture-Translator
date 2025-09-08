@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+numpy
+gTTS
+joblib
+pygame          # optional for audio playback
+pyttsx3         # optional for offline TTS
